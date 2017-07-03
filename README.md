@@ -40,7 +40,7 @@ Jul 30 - Aug 5 | X | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | Class 6:30 - 9:30 | L
 Aug 6 - 12 | Class & Lab 9:00 - 6:00 | Class 6:30 - 9:30 | Co-Work Lab | Lab 6:30 - 9:30 | Co-Work Lab | X | X
 Aug 13 - 19 | Class & Lab 9:00 - 6:00 | Class 6:30 - 9:30 | Co-Work Lab | Lab 6:30 - 9:30 | Co-Work Lab | X | X
 Aug 20 - 26 | Class & Lab 9:00 - 6:00 | Class 6:30 - 9:30 | Co-Work Lab | Lab 6:30 - 9:30 | Co-Work Lab | X | X
-Aug 27 - Sep 2 | X | Class 6:30 - 9:30 | Co-Work Lab | Lab 6:30 - 9:30 | Co-Work Lab | X | Class & Lab 9:00 - 6:00
+Aug 27 - Sep 2 | Class & Lab 9:00 - 6:00 | Class 6:30 - 9:30 | Co-Work Lab | Lab 6:30 - 9:30 | Co-Work Lab | X | X
 Sep 3 - 9 | Class & Lab 9:00 - 6:00 | Class 6:30 - 9:30 | Co-Work Lab | Lab 6:30 - 9:30 | Co-Work Lab | X | X
 Sep 10 - 16 | Class & Lab 9:00 - 6:00 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | X | X
 Sep 17 - 23 | Lab 9:00 - 6:00 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | X | X
