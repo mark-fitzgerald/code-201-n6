@@ -32,7 +32,7 @@ Check out the full [Table of Contents](SUMMARY.md).
 
 **Duration**: Monday, Tuesday, Wednesday, Thursday, and Sunday for 8 weeks (see table below).
 * First class: July 31, 2017
-* Last class: September 24, 2017
+* Last class: September 25, 2017
 
 **Week**    | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday
 -------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------
