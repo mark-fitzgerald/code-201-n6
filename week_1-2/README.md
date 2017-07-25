@@ -5,7 +5,7 @@
 
 *Lead Instructor*: Mark Fitzgerald
 
-*TA*: <to-be-determined>
+*TA*: Johnny Luangphasy
 
 ##Week 1 - Daily Plans
 ###Class 01

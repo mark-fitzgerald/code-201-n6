@@ -5,7 +5,7 @@
 
 *Lead Instructor*: Mark Fitzgerald
 
-*TA*: Arielle Foldoe
+*TA*: Johnny Luangphasy
 
 ## Week 3 - Daily Plans
 ### Class 06

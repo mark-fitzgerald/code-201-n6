@@ -5,7 +5,7 @@ Welcome to Code 201!
 
 *Lead Instructor*: Mark Fitzgerald
 
-*TA*: <to-be-added>
+*TA*: Johnny Luangphasy
 
 # Introduction
 Build a strong software development foundation and learn how to use HTML, CSS, JavaScript, and various libraries to create fully-functional web apps.
