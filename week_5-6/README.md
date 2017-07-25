@@ -20,7 +20,7 @@
 
 4. Voting on Images (random display, event listeners, etc.)
 
-###Class 11
+### Class 11
 1. Code Review
 
 +++BREAK+++
@@ -31,8 +31,8 @@
 
 3. Pair Programming Basics
 
-##Week 6 - Daily Plans
-###Class 12
+## Week 6 - Daily Plans
+### Class 12
 1. Code Review & Survey Responses
 
 +++BREAK+++
@@ -43,7 +43,7 @@
 
 3. Planning and Building a Project
 
-###Class 13
+### Class 13
 1. Code Review
 
 +++BREAK+++

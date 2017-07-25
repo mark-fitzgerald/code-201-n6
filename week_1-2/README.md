@@ -7,8 +7,8 @@
 
 *TA*: Johnny Luangphasy
 
-##Week 1 - Daily Plans
-###Class 01
+## Week 1 - Daily Plans
+### Class 01
 1. Intro to Code Fellows
 2. Introductions
 
@@ -18,7 +18,7 @@
 4. Intro to User Stories
 5. HTML & JS Basics (Hello World)
 
-###Class 02
+### Class 02
 1. HTML Basics
   1. Links
   2. Images
@@ -32,7 +32,7 @@
 
 4. Git & GitHub
 
-###Class 03
+### Class 03
 1. Code Review
 2. Control Flow
 3. Logical Operators & Counters
@@ -48,8 +48,9 @@
 7. Separation of Concerns
 8. README.md / Documentation
 
-##Week 2 - Daily Plans
-###Class 04
+## Week 2 - Daily Plans
+
+### Class 04
 1. Code Review & Survey Comments
 
 +++BREAK+++
@@ -64,7 +65,7 @@
   1. getElementById
   2. innerHTML
 
-###Class 05
+### Class 05
 1. Code Review
 
 +++BREAK+++

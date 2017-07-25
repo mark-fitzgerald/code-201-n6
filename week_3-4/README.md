@@ -20,7 +20,7 @@
 
 4. Object Literals
 
-###Class 07
+### Class 07
 1. Code Review
 
 +++BREAK+++
@@ -33,8 +33,8 @@
 4. New repo using `git init`
 5. Document Object Model & DOM Methods
 
-##Week 4 - Daily Plans
-###Class 08
+## Week 4 - Daily Plans
+### Class 08
 1. Code Review
 
 +++BREAK+++
@@ -46,7 +46,7 @@
 
 4. Constructor Functions
 
-###Class 9
+### Class 9
 1. Code Review & Survey Responses
 
 +++BREAK+++
