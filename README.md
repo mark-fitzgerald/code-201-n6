@@ -41,10 +41,10 @@ Aug 6 - 12 | Class & Lab 9:00 - 6:00 | Class 6:30 - 9:30 | Co-Work Lab | Lab 6:3
 Aug 13 - 19 | Class & Lab 9:00 - 6:00 | Class 6:30 - 9:30 | Co-Work Lab | Lab 6:30 - 9:30 | Co-Work Lab | X | X
 Aug 20 - 26 | Class & Lab 9:00 - 6:00 | Class 6:30 - 9:30 | Co-Work Lab | Lab 6:30 - 9:30 | Co-Work Lab | X | X
 Aug 27 - Sep 2 | Class & Lab 9:00 - 6:00 | Class 6:30 - 9:30 | Co-Work Lab | Lab 6:30 - 9:30 | Co-Work Lab | X | X
-Sep 3 - 9 | Class & Lab 9:00 - 6:00 | Class 6:30 - 9:30 | Co-Work Lab | Lab 6:30 - 9:30 | Co-Work Lab | X | X
-Sep 10 - 16 | Class & Lab 9:00 - 6:00 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | X | X
+Sep 3 - 9 | Class & Lab 9:00 - 6:00 | X | Co-Work Lab | Lab 6:30 - 9:30 | Co-Work Lab | X | X
+Sep 10 - 16 | Class & Lab 9:00 - 6:00 | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | X | X
 Sep 17 - 23 | Lab 9:00 - 6:00 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | Lab 6:30 - 9:30 | X | X
-Sep 24 - 30 | Project Presentations | X | X | X | X | X | X
+Sep 24 - 30 | Lab 9:00 - 6:00 | Project Presentations | X | X | X | X | X
 
 ## Assignments
 
