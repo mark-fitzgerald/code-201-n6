@@ -20,7 +20,7 @@ What if your user enters 'Y' instead of 'yes'? Or 'y' or 'YES'? Does your game s
 
 ## +++Add, Commit, Push+++
 
-###Add a counter
+### Add a counter
 After the three questions are finished, tell the user how many answers they got correct ("You got 2 correct answers out of 3 questions" or the like). You will need to manage some form of counter for this goal; e.g. track the amount of correct vs incorrect answers, or correct vs total answers, or...?
 
 Be sure to consider in your logic where the incremental counting should and does happen.

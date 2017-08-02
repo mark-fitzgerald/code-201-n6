@@ -16,12 +16,12 @@
     git push                Push local commits to GitHub
 
 
-##+++++Reminder: Add, Commit, Push (Git Workflow)+++++
+## +++++Reminder: Add, Commit, Push (Git Workflow)+++++
 
-###Create a new GitHub Repository
+### Create a new GitHub Repository
 If you have not already, create a new GitHub Repository called guessing-game on GitHub, and clone that repository to your local computer. Your cloned repository folder should be inside your class assignments folder (codefellows or projects or whatever).
 
-###Scaffold your guessing game
+### Scaffold your guessing game
 Inside of the guessing-game directory on your computer, create an index.html file or move your existing file to this folder.
 
 Make it look similar to the one we created in class today:
@@ -30,9 +30,9 @@ Make it look similar to the one we created in class today:
 - `console.log()` the response to each question with a useful message, like we did in class
 - In a sequence of alerts to the user, give a message repeating the answers that were given to the questions
 
-##+++++Reminder: Add, Commit, Push (Git Workflow)+++++
+## +++++Reminder: Add, Commit, Push (Git Workflow)+++++
 
-###Respond to the user using if/else and 'alert'
+### Respond to the user using if/else and 'alert'
 Design a script for an extended guessing game, which asks three questions using prompts, and responds to the user using alerts.
   - The game will consist of three yes/no questions about you (example: "Did I grow up in South Dakota?")
   - The questions will be presented in a 'prompt' with user feedback in an 'alert'
@@ -41,7 +41,7 @@ Design a script for an extended guessing game, which asks three questions using 
 
 Do this for each of the three questions.
 
-###+++++
+### +++++
 
 Strive for clear and readable code style with proper indentation, line termination, and descriptive variable names.
 
