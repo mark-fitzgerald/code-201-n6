@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>More HTML Fun!</title>
+    <script type="text/javascript">
+      var correctAnswer = 3;
+      console.log("Starting 'Welcome' message...");
+      var user = prompt("Welcome!", "Who are you?");
+      console.log("Received user name", user);
+      var today = new Date();
+      console.log("Today is: "+today);
+      var message = "Hello " + user + "!\nToday is: " + today.toDateString();
+      console.log("Message given to user: "+message);
+      alert(message);
+      var temperature = prompt("Is it hot outside?", "yes/no");
+      if (temperature == "yes" || temperature == "Yes") {
+        alert("So sorry. Go get a beer to cool off.");
+      } else {
+        alert("Whew! I was getting tired of the heat.");
+      }
+      var number = prompt("Pick a number:");
+      if (number === correctAnswer) {
+        alert("Congratulations!");
+      } else {
+        alert("Not. Even. Close!");
+      }
+    </script>
+  </head>
+  <body>
+    <h1>Welcome to Code 201 - Class 2</h1>
+    <p>In tonight's class, we will add an image.</p>
+    <img src="images/codefellowspdx.webp" height="50">
+    <p>HTML coolness provided by <a href="http://www.codefellowspdx.com" target="_blank">Code Fellows PDX</a> (now Alchemy Code Lab)</p>
+    <h3>Current Course Options</h3>
+    <ol>
+      <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSec4TwqRX8HxktxvXtb4ZJAuIP8YHvqmR8p7x076WOC8_dVUg/viewform">Code 201</a></li>
+      <ul type="disc">
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+      </ul>
+      <li>Code 301</li>
+      <li>Code 401</li>
+    </ol>
+  </body>
+</html>
