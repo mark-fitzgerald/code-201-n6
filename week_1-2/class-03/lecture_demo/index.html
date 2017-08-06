@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JavaScript Flow Control</title>
+  </head>
+  <body>
+    <h1>Welcome to Class 3</h1>
+    <script type="text/javascript">
+    // Welcome prompt
+      var userName = prompt("Welcome! Please tell us your name:");
+      while (userName == "" || userName == " ") { // Ensure that user provides name
+        if (userName == " ") {
+          userName = prompt("Sorry. Blank spaces don't count:");
+        } else {
+          userName = prompt("Sorry. We really need your name:");
+        }
+      }
+      // Update page with user's name
+      if (userName == "") {
+        document.write("<p>Welcome, anonymous person!</p>");
+      } else {
+        document.write("<p>Welcome, "+userName+"! It's great to have you here.</p>");
+      }
+
+      // Ask user for favorite class
+      var favorite = prompt("Of the 3 classes so far, which was your favorite:");
+      document.write("<ul>");
+      for (var classNumber = 1; classNumber <= 3; classNumber++) {
+        if (classNumber == favorite) { // Highlight user's favorite class (if indicated)
+          document.write("<li>Class "+classNumber+" (your favorite)</li>");
+        } else {
+          document.write("<li>Class "+classNumber+"</li>");
+        }
+      }
+      document.write("</ul>");
+
+      // Ask for class to review
+      var futureClass = prompt("Is there a class that you want to repeat:");
+      if (futureClass != "" && futureClass == parseInt(futureClass)) {
+        document.write("<p>Let's review class "+futureClass+" together at a different time.</p>");
+      }
+    </script>
+  </body>
+</html>
