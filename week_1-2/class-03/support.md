@@ -16,7 +16,7 @@ Always think of writing code in a series of steps, making sure that everything w
 ## +++Add, Commit, Push+++
 
 ### Add in error correction
-What if your user enters 'Y' instead of 'yes'? Or 'y' or 'YES'? Does your game still work correctly? It shouldn't. We need to build in some error correction. In your 'if' statements, where you are testing the user response, you need to add in && cases to your condition, such that Y/y/YES/yes or N/n/NO/no are all accounted for.
+What if your user enters 'Y' instead of 'yes'? Or 'y' or 'YES'? Does your game still work correctly? It shouldn't. We need to build in some error correction. In your 'if' statements, where you are testing the user response, you need to add in || cases to your condition, such that Y/y/YES/yes or N/n/NO/no are all accounted for.
 
 ## +++Add, Commit, Push+++
 

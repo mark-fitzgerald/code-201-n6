@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      var message="Special Instructions for User";
+      function updatePage() {
+        document.getElementById('special-section').innerHTML = message;
+      }
+      function guessNumber() {
+        var guess = prompt("Guess a number (1 - 10)");
+        if (guess == 5) {
+          message = "<span class='correct'>You guessed it!!!</span>";
+        } else {
+          message = "<span class='wrong'>Oh. Almost. Try again.</span>";
+        }
+        updatePage();
+      }
+    </script>
+    <style>
+      .correct {color: green;}
+      .wrong {color: red;}
+    </style>
+  </head>
+  <body>
+    <h1>DOM Manipultion Example - innerHTML</h1>
+    <p>Content above.</p>
+    <div id="special-section">Content goes here.</div>
+    <p>Content below.</p>
+    <input type="button" value="Update Page" onclick="updatePage()"><br><br>
+    <input type="button" value="Guess a Number" onclick="guessNumber()"><br>
+
+  </body>
+</html>

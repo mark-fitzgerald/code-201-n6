@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      var guess = prompt("Please rate this class (1 - 5):");
+      // if (guess == 1) {
+      //   alert("What?? 1 is low, 5 is high. I think you meant 5, right?");
+      // } else if (guess == 3) {
+      //   alert("Having a tough time deciding, huh?");
+      // } else if (guess == 5) {
+      //   alert("Glad you're loving it here!");
+      // } else {
+      //   alert("Hmm. We'll have to see what we can do to improve that.");
+      // }
+
+      switch(parseInt(guess)) {
+        case 1:
+        alert("What?? 1 is low, 5 is high. I think you meant 5, right?");
+        break;
+        case 3:
+        alert("Having a tough time deciding, huh?");
+        break;
+        case 5:
+        alert("Glad you're loving it here!");
+        break;
+        default:
+        alert("Hmm. We'll have to see what we can do to improve that.");
+      }
+    </script>
+  </head>
+  <body>
+    <h1>JavaScript Switch Example</h1>
+  </body>
+</html>

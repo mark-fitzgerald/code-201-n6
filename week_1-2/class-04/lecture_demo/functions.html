@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      function sayHello(userName = "World") {
+        if (userName) {
+          alert("Hello "+userName+"!");
+        // } else {
+        //   alert("Hello World!");
+        }
+      }
+
+      function getUserName() {
+        var name = prompt("Welcome! Please tell us your name:");
+        return name;
+      }
+    </script>
+  </head>
+  <body>
+    <h1>JavaScript Functions Example</h1>
+    <input type="button" value="Say Hello" onclick="sayHello()">
+  </body>
+</html>
