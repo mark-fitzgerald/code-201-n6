@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="main.css">
+  </head>
+  <body>
+    <h1>Form Example</h1>
+    <form method="get">
+      <label for="userName">Name: </label><input type="text" id="userName" name="userName" placeholder="Real Name Here"><br>
+      <label for="phone">Phone: </label><input type="text" id="phone" name="phone"><br>
+      <label for="email">E-Mail: </label><input type="text" id="email" name="email"><br>
+      <h3>Favorite Class</h3>
+      <input type="radio" name="favorite" id="fav-201" value="201" checked> <label for="fav-201">Code 201</label><br>
+      <input type="radio" name="favorite" id="fav-301" value="301"> <label for="fav-301">Code 301</label><br>
+      <input type="radio" name="favorite" id="fav-401" value="401"> <label for="fav-401">Code 401</label><br>
+      <h3>Anticipated Classes</h3>
+      <select name="anticipated">
+        <option>Code 201</option>
+        <option selected>Code 301</option>
+        <option>Code 401</option>
+        <option>Code 501</option>
+        <option>Code 601</option>
+        <option>Code 701</option>
+        <option>Code 801</option>
+      </select>
+      <br><br>
+      <input type="submit" value="Spam Me!">
+    </form>
+  </body>
+</html>
