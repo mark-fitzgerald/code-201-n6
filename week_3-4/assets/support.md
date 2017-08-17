@@ -9,7 +9,7 @@ But, Pat needs some help with the branding of the business, as well as some help
 
 Because we are early in the life of this business, we will need to build an application that is adaptable. Pat will need to be able to add and remove locations from the daily projections report, and Pat will also need to be able to easily modify the input numbers for each location based on day of the week, special events, and other factors. Pat would like to see these numbers with nice formatting in a web application, and oh yeah... one more thing:
 
-Pat needs you to take a leading role in doing the design work, too. Pat has a logo image picked out, but that's it. Yep, all you're getting to work off of is an illustration of a fish [see Assets Folder](../).
+Pat needs you to take a leading role in doing the design work, too. Pat has a logo image picked out, but that's it. Yep, all you're getting to work off of is an illustration of a fish [see Assets Folder](./).
 
 Pat has asked you to come up with all other aspects of the design for the web application, including a color scheme and a custom font, and maybe additional images, and provide those in this very same web application as a style guide. So, in addition to building an application that calculates daily sales projections for each location, you also need to create a style guide that is colorful, eye-catching, readable, useful, informative, specific, repeatable, and ultimately ready for use on T-shirts, stickers, coffee mugs, cookie bags, napkins, and so on.
 
