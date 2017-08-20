@@ -1,0 +1,23 @@
+/*Data*/
+ul {
+font-family: arial;
+color: Black;
+
+}
+
+body {
+  background: beige;
+}
+
+/*Text*/
+p {
+  font-family: Georgia;
+}
+h2 {
+  color: salmon;
+  weight: bolder;
+}
+
+/*Highlights*/
+font-family: 'Raleway', sans-serif;
+font-color: salmon

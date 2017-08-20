@@ -1,0 +1,75 @@
+body {
+  font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+footer {
+  font-size: 12px;
+  font-style: italic;
+  margin-top: 25px;
+}
+
+article p:first-of-type:first-letter {
+  font-size: 2.5em;
+  float: left;
+}
+
+nav, section, aside {
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav, aside {
+  width: 19%;
+}
+
+section {
+  width: 60%;
+}
+
+nav ul {
+  list-style: none;
+  margin-top: 15px;
+  padding: 0;
+}
+
+nav li {
+  padding: 3px 0;
+}
+
+nav li:hover {
+  background-color: #ddddff;
+}
+
+aside div {
+  height: 100px;
+  margin: 15px 0;
+}
+
+aside .ad {
+  border: 1px solid black;
+  background-color: #aaaaaa;
+}
+
+aside .related {
+  border: 1px solid blue;
+  background-color: #aaaaff;
+}
+
+.by-line {
+  display: block;
+  text-transform: lowercase;
+}
+
+.submenu {
+  display: none;
+  margin-top: 0;
+  margin-left: 8px;
+}
+
+nav li:hover .submenu {
+  display: block;
+}
