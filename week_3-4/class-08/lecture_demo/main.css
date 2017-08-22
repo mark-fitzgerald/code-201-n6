@@ -1,0 +1,12 @@
+body {
+  font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+  border-spacing: 10px;
+}
