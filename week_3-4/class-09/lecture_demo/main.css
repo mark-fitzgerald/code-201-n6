@@ -1,0 +1,58 @@
+header, nav, section {
+  border: 1px solid #777777;
+}
+
+header h1 {
+  text-align: center;
+}
+
+nav {
+  width: 150px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+section {
+  display: inline-block;
+  vertical-align: top;
+  width: calc(100% - 150px - 1em);
+}
+
+.moveable-image {
+  position: absolute;
+}
+
+header .moveable-image {
+  /*margin-left: auto;
+  margin-right: 0;
+  margin-top: -80px;
+  display: block;*/
+  top: 0;
+  right: 0;
+}
+
+section {
+  position: relative;
+}
+
+section .moveable-image {
+  top: -18px;
+  left: -10px;
+}
+
+section p:first-of-type {
+  margin-left: 85px;
+}
+
+#detail-info {
+  font-family: Courier;
+}
+
+p {
+  font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.highlight {
+  background-color: yellow;
+  font-family: Optima;
+}

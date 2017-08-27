@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <script type="text/javascript">
+      function showText(objectToShow) {
+        alert(objectToShow.innerText);
+      }
+    </script>
+  </head>
+  <body>
+    <header>
+      <h1>CSS Positioning Example</h1>
+      <img src="images/Logo.png" class="moveable-image">
+    </header>
+    <nav>
+      <ul onclick="showText(this)">
+        <li>Code 101</li>
+        <li>Code 102</li>
+        <li>Code 201</li>
+        <li>Code 301</li>
+        <li>Code 401</li>
+      </ul>
+    </nav>
+    <section>
+      <img src="images/Logo.png" class="moveable-image" onMouseOver="this.src='images/Logo-over.png'"
+      onmouseout="this.src='images/Logo.png'">
+      <p onmouseover="this.style.backgroundColor='green'" onmouseout="this.style.backgroundColor='white'"
+      onclick="showText(this)">
+      I have reset the sensors to scan for frequencies outside the usual range. By emitting harmonic vibrations to shatter the lattices. We will monitor and adjust the frequency of the resonators. He has this ability of instantly interpreting and extrapolating any verbal communication he hears. It may be due to the envelope over the structure, causing hydrogen-carbon helix patterns throughout. I'm comparing the molecular integrity of that bubble against our phasers.
+      </p>
+      <p id="detail-info" class="highlight">
+      I have reset the sensors to scan for frequencies outside the usual range. By emitting harmonic vibrations to shatter the lattices. We will monitor and adjust the frequency of the resonators. He has this ability of instantly interpreting and extrapolating any verbal communication he hears. It may be due to the envelope over the structure, causing hydrogen-carbon helix patterns throughout. I'm comparing the molecular integrity of that bubble against our phasers.
+      </p>
+      <p class="highlight green">
+      I have reset the sensors to scan for frequencies outside the usual range. By emitting harmonic vibrations to shatter the lattices. We will monitor and adjust the frequency of the resonators. He has this ability of instantly interpreting and extrapolating any verbal communication he hears. It may be due to the envelope over the structure, causing hydrogen-carbon helix patterns throughout. I'm comparing the molecular integrity of that bubble against our phasers.
+      </p>
+    </section>
+
+  </body>
+</html>
