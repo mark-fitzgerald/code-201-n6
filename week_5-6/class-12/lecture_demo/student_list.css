@@ -1,0 +1,43 @@
+body {
+  font-family: "Yuanti SC", sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#student-container {
+  display: flex;
+  width: 600px;
+  margin: 0 auto;
+}
+
+#student-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  width: 50%;
+}
+
+#student-list li {
+  padding: 3px;
+  margin: 5px;
+  border: 1px solid red;
+  border-radius: 3px;
+}
+
+#student-list li:nth-child(odd) {
+  background-color: rgba(255, 0, 0, 0.10);
+}
+
+#student-list li:hover {
+  background-color: red;
+  color: white;
+}
+
+#student-info img {
+  width: 128px;
+  border: 1px solid black;
+  box-shadow: 0 0 10px;
+  border-radius: 50%;
+}

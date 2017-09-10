@@ -1,0 +1,9 @@
+.hide {
+  display: none;
+}
+
+#scratchPad {
+  left: 0;
+  opacity: 1;
+  transition: all 1s;
+}

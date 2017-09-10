@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript" src="answers.js"></script>
+    <link rel="stylesheet" type="text/css" href="answers.css">
+  </head>
+  <body>
+    <h1>How to Do What, and Stuff</h1>
+    <div id="scratchPad">
+      <p>Content goes here</p>
+    </div>
+    <br><br>
+    <input type="button" value="Clear the Page via JavaScript (innerHTML)" onclick="removeViaInnerHTML('scratchPad')">
+    <input type="button" value="Clear the Page via JavaScript (remove child)" onclick="removeViaRemoveChild('scratchPad')">
+    <input type="button" value="Clear the Page via CSS (visibility)" onclick="hideViaVisibility('scratchPad')">
+    <input type="button" value="Clear the Page via CSS (display: none)" onclick="hideViaDisplayNone('scratchPad')">
+    <input type="button" value="Clear the Page via CSS (position)" onclick="hideViaPosition('scratchPad')">
+    <input type="button" value="Clear the Page via CSS (opacity)" onclick="hideViaOpacity('scratchPad')">
+  </body>
+</html>
