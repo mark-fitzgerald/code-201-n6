@@ -1,0 +1,33 @@
+body {
+  font-family: Optima, sans-serif;
+}
+
+header h1 {
+  position: relative;
+  animation: dropIn 1.5s linear;
+}
+
+nav ul {
+  list-style: none;
+  font-weight: bold;
+  color: blue;
+  font-size: 1.2em;
+}
+
+nav li {
+  margin: 6px 0;
+  padding: 4px 8px;
+  transition: all 0.25s;
+  border: 1px solid transparent;
+}
+
+nav li:hover {
+  transition: background-color 0.5s, padding 0.5s, border 0.5s 0.5s;
+  background-color: #aaffcc;
+  padding-left: 16px;
+  border: 1px solid green;
+}
+
+header h1 {
+  text-align: center;
+}

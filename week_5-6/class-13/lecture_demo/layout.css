@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body > header {
+  height: 80px
+}
+
+main {
+  display: flex;
+}
+
+nav {
+  flex-shrink: 0;
+  width: 150px;
+}
+
+nav ul {
+  padding: 0;
+}
+
+aside {
+  flex-shrink: 0;
+  width: 200px;
+}

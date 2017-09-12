@@ -1,0 +1,15 @@
+Data
+	Student Name
+	GitHub account
+	History
+	Picture
+
+
+Functionality
+	Click student -> show info
+	Randomizer
+	Add to history
+
+
+Presentation
+	Highlight student on hover

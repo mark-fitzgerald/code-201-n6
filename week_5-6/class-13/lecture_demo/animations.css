@@ -1,0 +1,8 @@
+@keyframes dropIn {
+  0% { top: -70px; }
+  40% { top: 0px; }
+  70% { top: -45px; }
+  85% { top: 0px; }
+  92% { top: -15px; }
+  100% { top: 0px; }
+}
